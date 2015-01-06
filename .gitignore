@@ -1,4 +1,4 @@
-*.tar.*
+src/*/*.tar.*
 *.zip
 *~
 *.old
