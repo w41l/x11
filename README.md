@@ -7,8 +7,8 @@ Modified version of Slackware's modular X11 SlackBuild.
 PURPOSE
 ===
 For anyone who wants to playing around with (X)WAYLAND in Slackware.
-You can get SlackBuilds for wayland, libinput, libxkbcommon, pam, and weston on:
-<a href="https://github.com/w41l/wlsbuild">wlsbuild repo</a>
+You can get SlackBuilds for wayland, mesa, libinput, libxkbcommon, pam,
+and weston on: <a href="https://github.com/w41l/wlsbuild">wlsbuild repo</a>
 
 
 WARNING
