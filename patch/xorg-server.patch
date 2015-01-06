@@ -1,0 +1,1 @@
+zcat $CWD/patch/xorg-server/xorg-server-1.16.3-add_prime_support-1.patch.gz | patch -p1 --verbose || { touch ${SLACK_X_BUILD_DIR}/${PKGNAME}.failed ; continue ; }
